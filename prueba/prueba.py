@@ -247,7 +247,7 @@ color = Color()
 )
 def index() -> rx.Component:
     return rx.center(
-        rx.hstack(
+        rx.vstack(
             button(1),
             button(2),
             button(3),
