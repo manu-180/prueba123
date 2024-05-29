@@ -1,4 +1,4 @@
-cd prueba_5000
+cd prueba
 python -m venv entorno_con_3.11
  .\entorno_con_3.11\Scripts\Activate
 C:\Users\Manuel\Desktop\Folder\x\entorno_con_3.11\Scripts\python.exe -m pip install --upgrade pippip install -r requirements.txt
