@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    if: github.repository == 'manu-180/prueba5000'
+    if: github.repository == 'manu-180/prueba123'
     runs-on: windows-latest
     permissions:
       contents: write
